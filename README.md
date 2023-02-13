@@ -1,5 +1,5 @@
 # Monster-Ambush
-Es un minijuego realizado para la asignatura de Programación Avanzada de GDDV en la URJC sobre el motor desarrollado en la misma asignatura.
+Es un minijuego realizado en C++ para la asignatura de Programación Avanzada de GDDV en la URJC sobre el motor desarrollado en la misma asignatura.
 
 ## Idea
 Monster Ambush se basa en el Viaje del Rey de la pradera, un minijuego del Stardew Valley. El jugador debe sobrevivir a oleadas de enemigos defendiéndose con proyectiles. El juego se hace más complicado cuando se matan a 10 enemigos para crear una curva de dificultad
